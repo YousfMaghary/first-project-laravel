@@ -67,3 +67,5 @@ Route::delete('offers/delete','UsersController@showUserName');
 Route::get('offers/edit','UsersController@showUserName');
 Route::put('offers/update','UsersController@showUserName');
 
+
+//yousef
